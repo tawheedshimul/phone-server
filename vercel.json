@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "main": [
+    "dist": [
       {
         "src": "index.js",
         "use": "@now/node"
